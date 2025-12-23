@@ -566,7 +566,9 @@ graph LR
   
   <br>
   
+  <!-- Snake animation - Requires GitHub Actions workflow to generate
   ![Snake animation](https://github.com/ismailmuhammad15g/ismailmuhammad15g/blob/output/github-contribution-grid-snake.svg)
+  -->
   
   <br>
   
