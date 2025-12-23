@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ismail, a passionate 15-year-old tech enthusiast from Egypt with a deep fascination for artificial intelligence and software development. I believe that code is poetry in motion – elegant, powerful, and capable of solving real-world problems.
+I'm Ismail, a passionate 15-year-old tech enthusiast from Bangladesh with a deep fascination for artificial intelligence and software development. I believe that code is poetry in motion – elegant, powerful, and capable of solving real-world problems.
 
 ✨ **Currently diving deep into:** AI fundamentals, Python programming, and the art of prompt engineering  
 🚀 **Long-term vision:** To become a software engineer specializing in artificial intelligence systems  
