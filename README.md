@@ -115,9 +115,9 @@ This week I'm focusing on:
   <br>
   <i>Thank you for visiting my profile! I'm continuously learning and growing in my software engineering journey.</i>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=800&lines=Thanks+for+your+support" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=8BE9FD&center=true&vCenter=true&width=800&lines=Thanks+for+checking+this+out👀" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=50FA7B&center=true&vCenter=true&width=800&lines=Thanks+for+your+donation❤️" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=FF79C6&background=0D1117&center=true&vCenter=true&width=800&lines=%D9%85%D8%B4%D9%83%D9%88%D8%B1+%D9%84%D8%AF%D8%B9%D9%85%D9%83+%F0%9F%92%9C" alt="thanks for watching" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3200&pause=700&color=8BE9FD&background=0D1117&center=true&vCenter=true&width=800&lines=%D8%B4%D9%83%D8%B1%D8%A7+%D9%84%D9%84%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9+%F0%9F%91%80" alt="Thanks for your support" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3600&pause=1100&color=50FA7B&background=0D1117&center=true&vCenter=true&width=800&lines=%D8%B4%D9%83%D8%B1%D8%A7+%D9%84%D8%AA%D8%A8%D8%B1%D8%B9%D9%83+%E2%9D%A4%EF%B8%8F" alt="thanks for your patient" /> 
 
   <br>
   <sub>Made with ❤️ and lots of ☕</sub>
