@@ -10,9 +10,9 @@
   
   <br><br>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=ismailmuhammad15g&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/ismailmuhammad15g)
-  [![GitHub Followers](https://img.shields.io/github/followers/ismailmuhammad15g?label=Followers&style=for-the-badge&color=ff69b4)](https://github.com/ismailmuhammad15g?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/ismailmuhammad15g?label=Stars&style=for-the-badge&color=yellow)](https://github.com/ismailmuhammad15g)
+  [![Profile Views](https://komarev.com/ghpvc/?username=ismailmuhammad15g-code&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/ismailmuhammad15g-code)
+  [![GitHub Followers](https://img.shields.io/github/followers/ismailmuhammad15g-code?label=Followers&style=for-the-badge&color=ff69b4)](https://github.com/ismailmuhammad15g-code?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/ismailmuhammad15g-code?label=Stars&style=for-the-badge&color=yellow)](https://github.com/ismailmuhammad15g-code)
   
   <br>
   
@@ -251,9 +251,9 @@ I spend my days learning, experimenting with new technologies, and building smal
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismailmuhammad15g&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismailmuhammad15g-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=8BE9FD&text_color=F8F8F2&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailmuhammad15g&theme=radical&hide_border=true&background=0D1117&stroke=FF79C6&ring=8BE9FD&fire=FFB86C&currStreakLabel=50FA7B" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailmuhammad15g-code&theme=radical&hide_border=true&background=0D1117&stroke=FF79C6&ring=8BE9FD&fire=FFB86C&currStreakLabel=50FA7B" alt="GitHub Streak" />
 
 </div>
 
@@ -261,9 +261,9 @@ I spend my days learning, experimenting with new technologies, and building smal
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmuhammad15g&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmuhammad15g-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2&langs_count=8" alt="Top Languages" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmuhammad15g&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2" alt="Language Donut" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmuhammad15g-code&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=F8F8F2" alt="Language Donut" />
 
 </div>
 
@@ -271,7 +271,7 @@ I spend my days learning, experimenting with new technologies, and building smal
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ismailmuhammad15g&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ismailmuhammad15g-code&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -279,7 +279,7 @@ I spend my days learning, experimenting with new technologies, and building smal
 
 <div align="center">
   
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismailmuhammad15g&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF79C6&line=8BE9FD&point=50FA7B&area=true)](https://github.com/ismailmuhammad15g)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ismailmuhammad15g-code&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF79C6&line=8BE9FD&point=50FA7B&area=true)](https://github.com/ismailmuhammad15g-code)
 
 </div>
 
@@ -421,7 +421,7 @@ graph LR
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomismailYt12@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ismailmohammadzetsu)
   [![Hack Club](https://img.shields.io/badge/Hack_Club-266CFF?style=for-the-badge&logo=hackclub&logoColor=white)](https://hackclub.com/slack/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailmuhammad15g)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailmuhammad15g-code)
 
 </div>
 
@@ -444,7 +444,7 @@ graph LR
       <td align="center" width="33%">
         <img src="https://img.icons8.com/color/48/000000/slack-new.png" width="50"/><br>
         <strong>Slack & Hack Club</strong><br>
-        @ismailmuhammad15g
+        @ismailmuhammad15g-code
       </td>
     </tr>
   </table>
@@ -567,7 +567,7 @@ graph LR
   <br>
   
   <!-- Snake animation - Requires GitHub Actions workflow to generate
-  ![Snake animation](https://github.com/ismailmuhammad15g/ismailmuhammad15g/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ismailmuhammad15g-code/ismailmuhammad15g-code/blob/output/github-contribution-grid-snake.svg)
   -->
   
   <br>
@@ -577,6 +577,6 @@ graph LR
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=ismailmuhammad15g&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ismailmuhammad15g-code&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   
 </div>
